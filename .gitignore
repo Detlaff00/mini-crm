@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# macOS system files
+.DS_Store
+
+# IDE configs
+.vscode/
+.idea/
+
+# Database and migrations
+*.db
+alembic/versions/
