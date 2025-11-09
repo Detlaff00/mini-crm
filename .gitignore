@@ -17,3 +17,5 @@ venv/
 # Database and migrations
 *.db
 alembic/versions/
+
+https://github.com/Detlaff00/mini-crm
